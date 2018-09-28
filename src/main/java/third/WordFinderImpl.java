@@ -16,6 +16,6 @@ public class WordFinderImpl implements WordFinder {
 
     @Override
     public void writeSentenceToResult(String sentence) {
-
+        //Because
     }
 }
